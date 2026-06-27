@@ -1,6 +1,6 @@
 # PyTorch Policy Gradient Cart-Pole Solver 🐍🛒
 
-Welcome to the PyTorch Policy Gradient Cart-Pole Solver repository! This repository contains two scripts that offer exciting functionalities.
+Welcome to the PyTorch Policy Gradient Cart-Pole Solver repository! This repository contains two scripts.
 
 ## policygrad.py 📃
 
